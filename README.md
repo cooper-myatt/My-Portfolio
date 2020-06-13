@@ -2,9 +2,8 @@
 A collection of my data visualizations and projects
 
 # About Me
-.
 ......
-![VIZ](/Project/Basic%20Data%20Viz)
+
 # Data Visualizations
 <html>
  <head>
