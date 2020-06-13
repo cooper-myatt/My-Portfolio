@@ -3,7 +3,7 @@ A collection of my data visualizations and projects
 
 # About Me
 ......
-![](https://github.com/cooper-myatt/My-Portfolio/blob/master/Basic%20Data%20Viz)
+![VIZ](https://github.com/cooper-myatt/My-Portfolio/blob/master/Basic%20Data%20Viz)
 # Data Visualizations
 <html>
  <head>
