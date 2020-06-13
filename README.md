@@ -9,7 +9,7 @@ A collection of my data visualizations and projects
 
 # Projects
 ..........
-
+ 
 # Related Experience
 ........
 
